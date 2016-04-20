@@ -1,3 +1,7 @@
+/* This small application was developed by Steven Leblanc 
+ * to solve the problem given at rosalind.info/problems/cons/
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>
